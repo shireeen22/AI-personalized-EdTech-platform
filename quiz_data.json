@@ -1,0 +1,256 @@
+{
+    "Class 10": {
+        "Science": [
+            {
+                "question": "Which gas is released when an acid reacts with a metal?",
+                "options": [
+                    "Oxygen",
+                    "Hydrogen",
+                    "CO2",
+                    "Nitrogen"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "question": "Which of the following is a base?",
+                "options": [
+                    "HCl",
+                    "NaOH",
+                    "H2SO4",
+                    "CH3COOH"
+                ],
+                "answer": "NaOH"
+            },
+            {
+                "question": "What is the pH of pure water?",
+                "options": [
+                    "7",
+                    "10",
+                    "14",
+                    "1"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "Rusting of iron is an example of:",
+                "options": [
+                    "Physical change",
+                    "Chemical change",
+                    "Both",
+                    "None"
+                ],
+                "answer": "Chemical change"
+            },
+            {
+                "question": "Which organ is responsible for filtering blood in humans?",
+                "options": [
+                    "Liver",
+                    "Heart",
+                    "stomach",
+                    "Kidney"
+                ],
+                "answer": "Kidney"
+            },
+            {
+                "question": " Which of the following is the basic unit of life?",
+                "options": [
+                    "Tissue",
+                    "Atom",
+                    "Cell",
+                    "Organ"
+                ],
+                "answer": "Cell"
+            },
+            {
+                "question": "What is the chemical formula of water?",
+                "options": [
+                    "H2O",
+                    "HCL",
+                    "H2",
+                    "O2"
+                ],
+                "answer": "H2O"
+            }
+        ],
+        "Maths": [
+            {
+                "question": "If HCN=HCF of 36, 48 and 60, then HCN=",
+                "options": [
+                    "6",
+                    "12",
+                    "18",
+                    "24"
+                ],
+                "answer": "12"
+            },
+            {
+                "question": "The least number which when divided by 6, 8, and 12 leaves remainder 5 in each case is:",
+                "options": [
+                    "59",
+                    "61",
+                    "77",
+                    "89"
+                ],
+                "answer": "77"
+            },
+            {
+                "question": "The degree of the polynomial 3x^4 - 5x^3 + 2x - 1 is",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": "4"
+            }
+        ]
+    },
+    "Class 9": {
+        "Science": [
+            {
+                "question": "Formula of Water?",
+                "options": [
+                    "H20",
+                    "O2",
+                    "H2",
+                    "CO2"
+                ],
+                "answer": "H20"
+            },
+            {
+                "question": "Which of the following is a renewable source of energy?",
+                "options": [
+                    "Coal",
+                    "Natural Gas",
+                    "Solar energy",
+                    "Oil"
+                ],
+                "answer": "Solar energy"
+            },
+            {
+                "question": "What is the primary function of red blood cells?",
+                "options": [
+                    "Carry oxygen",
+                    " Fight infections",
+                    "Transport nutrients",
+                    "Regulate body temperature"
+                ],
+                "answer": "Carry oxygen"
+            },
+            {
+                "question": "What is the pH of lemon juice?",
+                "options": [
+                    "7",
+                    " 6",
+                    "4",
+                    "9"
+                ],
+                "answer": "4"
+            },
+            {
+                "question": " Which organ is responsible for pumping blood in humans?",
+                "options": [
+                    "Lungs",
+                    " Brain",
+                    "Heart",
+                    "Kidney"
+                ],
+                "answer": "Heart"
+            },
+            {
+                "question": "What is the process of a solid turning directly into a gas called?",
+                "options": [
+                    "Freezing",
+                    "Melting",
+                    "Sublimation",
+                    "Condensation"
+                ],
+                "answer": "Sublimation"
+            },
+            {
+                "question": "Which of the following is not a property of metals?",
+                "options": [
+                    "Shining",
+                    "Good Conductor of Heat and Electricity",
+                    "Hard",
+                    "Poor conductor of Heat"
+                ],
+                "answer": "Poor conductor of Heat"
+            }
+        ],
+        "Maths": [
+            {
+                "question": " Which of the following is Natural number?",
+                "options": [
+                    "3.5",
+                    "7",
+                    "-2",
+                    "0"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": " Zero is a rational number.",
+                "options": [
+                    "True",
+                    "False",
+                    "Don't know",
+                    "Never"
+                ],
+                "answer": "True"
+            },
+            {
+                "question": "A triangle has __________ vertices.",
+                "options": [
+                    "2",
+                    "3",
+                    "7",
+                    "0"
+                ],
+                "answer": "3"
+            },
+            {
+                "question": "A cube of side equal to 20 cm is open from the top. Its total surface area is __________ cm2.",
+                "options": [
+                    "2000",
+                    "2500",
+                    "2400",
+                    "8000"
+                ],
+                "answer": "2000"
+            }
+        ],
+        "English": [
+            {
+                "question": "Articles are__",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": "3"
+            },
+            {
+                "question": "I am ___ girl.\n Here the article used___",
+                "options": [
+                    "a",
+                    "an",
+                    "the",
+                    "my"
+                ],
+                "answer": "a"
+            },
+            {
+                "question": "How ___ sugar do you want to add?\nSuitable is ____",
+                "options": [
+                    "more",
+                    "much",
+                    "many",
+                    "want"
+                ],
+                "answer": "much"
+            }
+        ]
+    }
+}
